@@ -27,7 +27,7 @@ Example Workflow:
 * Install the necessary packages by running:
 ```npm install```
 
-* Run the application:
+* Run the application: ```Node App.js```
 
 ## Error Handling
 The application checks for valid input (e.g., positive numbers for deposits and transfers) and ensures that usernames are unique.
